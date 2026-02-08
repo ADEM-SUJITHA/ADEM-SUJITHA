@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Sujitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Engineering student at RGMCET focused on Java, Python ,Frontend Development. Currently building real projects.</h3>
 
 
 - 🌱 I’m currently learning **Backend Frameworks,Deep Learning**
